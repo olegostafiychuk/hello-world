@@ -1,2 +1,3 @@
 # hello-world
 exersizes to learn how to use git
+I have changed the initial text for the first time. Everything is just begins...
