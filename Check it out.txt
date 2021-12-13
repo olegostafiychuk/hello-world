@@ -2,3 +2,5 @@ this is first attempt
 2nd change
 
 and now for the 3d change
+
+Здесь текст, написанный по-русски. Спустя три года, наконец, пришло время познакомиться с git по-настоящему
