@@ -3,6 +3,6 @@ this is first attempt
 
 and now for the 3d change
 
-Здесь текст, написанный по-русски. Спустя три года, наконец, пришло время познакомиться с git по-настоящему
+Здесь текст, написанный по-русски.
 
 3. Let's add the 3rd contribution
